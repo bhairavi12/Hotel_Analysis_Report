@@ -1,8 +1,21 @@
 # 🏨 Hotel Performance Analysis - Power BI Report
 
-#### 🚀 Unlock key insights into hotel operations with an interactive and data-driven Power BI dashboard. This report provides an in-depth analysis of occupancy trends, revenue performance, customer demographics, and booking patterns to help hotel managers make informed business decisions.
+### 🚀 Unlock key insights into hotel operations with an interactive and data-driven Power BI dashboard. This report provides an in-depth analysis of occupancy trends, revenue performance, customer demographics, and booking patterns to help hotel managers make informed business decisions.
+#
+
+<!-- https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis/blob/main/Firstpg.png-->
+
+<!--![Image](https://github.com/user-attachments/assets/f15e393c-4c48-4840-8eba-70d539e92f25 )-->
+
+<p align="center">
+  <img width="600" height="350" src="https://github.com/bhairavi12/Hotel_Analysis_Report/blob/main/Hotel_Firstpg.png">
+</p>
+
+
+📎 Dashboard Link👩🏻‍💻: https://lnkd.in/desV_siS
 #
 #
+
 ## 📊 Key Insights & Features
 
 ### 🔹Occupancy & Booking Trends
@@ -61,18 +74,6 @@
 
 🔍 Interactive Filters – Explore data by date, booking source, and customer type.
 
-
-#
-#
-## 📸 Screenshot
-
-<!-- https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis/blob/main/Firstpg.png-->
-
-<!--![Image](https://github.com/user-attachments/assets/f15e393c-4c48-4840-8eba-70d539e92f25 )-->
-
-<p align="center">
-  <img width="600" height="350" src="https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis/blob/main/Firstpg.png">
-</p>
 
 #
 #
