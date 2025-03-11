@@ -1,103 +1,65 @@
-# Health Insurance Claim Coverage Analysis
+# 🏨 Hotel Performance Analysis - Power BI Report
 
- ### 🚀 Transforming Healthcare Insurance Data into Actionable Insights!
-#
-### 📽️Click For Trailer 👉
-#### https://www.loom.com/share/a8aa5dae4f5a462abd9caf4efc692cd6
-#
-## 📌 Overview  
-
-🔍 Are you looking for a data-driven approach to analyze healthcare claims, billing trends, and patient retention? This Power BI Dashboard provides a comprehensive view of insurance analytics, helping organizations detect fraud, track approvals, optimize revenue, and improve patient care.
-
-#
-## 📈 Key Features
-✔️ <ins>Executive Summary Dashboard</ins>– Quick overview of total claims, insured patients, and approval rates.
-
-✔️ <ins>Claim Analysis</ins> – Insights into approved vs. rejected claims per insurance provider.
-
-✔️ <ins>Billing & Revenue Trends</ins> – Identify top hospitals by claim amounts.
-
-✔️ <ins>Patient Retention</ins> – Track patient revisit rates per insurance plan.
-
-✔️ <ins>Fraud Detection </ins>– Spot duplicate claims and anomalies in claim processing.
-
-✔️ <ins>DAX-Powered Insights</ins> – Advanced calculations for deeper analysis.
-
+#### 🚀 Unlock key insights into hotel operations with an interactive and data-driven Power BI dashboard. This report provides an in-depth analysis of occupancy trends, revenue performance, customer demographics, and booking patterns to help hotel managers make informed business decisions.
 #
 #
-## 📊 Dashboards & Pages
+## 📊 Key Insights & Features
 
-### 📌 1. Executive Summary Dashboard
-🎯 Purpose: Provides a high-level overview of key performance metrics.
-#### 🔹 Visuals:
-✅ Total Insured Patients (KPI Card)
+### 🔹Occupancy & Booking Trends
+✅ Analyze hotel occupancy rates across different time periods.
 
-✅ Total Claims Processed (KPI Card)
-
-✅ Total Billing Amount Covered (KPI Card)
-
-✅ Claim Approval Rate (%) (Gauge Chart)
-
-✅ Top 5 Insurance Providers by Claims Paid (Bar Chart)
-
-✅ Claims Processing Trends Over Time (Line Chart)
-
+✅ Identify peak and off-peak seasons to optimize pricing and marketing strategies.
 
 #
-### 📌 2. Claims Analysis
-🎯 Purpose: Analyzing approval, rejection rates, and potential fraudulent claims.
+### 🔹 Revenue Performance
+✅ Track Total Revenue, Average Daily Rate (ADR), and Revenue per Available Room (RevPAR).
 
-#### 🔹 Visuals:
-
-✅ Approved vs. Rejected Claims (Bar Chart)
-
-✅ Monthly Claim Trends (Line Chart)
-
-✅ Duplicate Claims Detection (Matrix)
+✅ Compare revenue trends monthly, quarterly, and yearly.
 
 #
-### 📌 3. Billing & Revenue Insights
-🎯 Purpose: Identifying top hospitals and insurance providers by billing amounts.
+### 🔹 Customer Segmentation & Booking Patterns
+✅ Understand customer demographics (age, nationality, booking sources).
 
-#### 🔹 Visuals:
-✅ Top Hospitals by Billing Amount
+✅ Identify the most valuable market segments for targeted promotions.
 
-✅ Total Revenue by Insurance Provider
-
-✅ Billing Trends Over Time
+✅ Evaluate cancellation trends and optimize booking policies.
 
 #
-### 📌 4. Patient Retention & Revisit Analysis
-#### 🎯 Purpose: Understanding first-time vs. returning patients.
-#### 🔹 Visuals:
-✅ Revisit Rate per Insurance Plan (Line Chart)
+### 🔹 Time Intelligence Analysis
+✅ Explore historical trends, seasonality, and forecasts for better planning.
 
-✅ First-Time vs. Returning Patients
+✅ Identify key performance drivers with interactive visualizations.
 
 #
 #
-## 🛠️ Tech Stack Used
-Power BI – Data visualization & reporting
+## 🎯 KPIs & Visualizations
 
-DAX – Calculations & measures
+### 📌 Key Performance Indicators (KPIs):
 
-SQL – Data processing & ETL
 
-Power Query (M Language) – Data transformation
+📍 Occupancy Rate (%) – Measure hotel room utilization.
+
+📍 Total Revenue – Track overall financial performance.
+
+📍 Average Daily Rate (ADR) – Monitor revenue per room per day.
+
+📍 Revenue per Available Room (RevPAR) – Assess profitability per available room.
+
+📍 Booking Cancellations (%) – Identify factors influencing cancellations.
 
 
 #
 #
-## 📥Want To Use Report?
+## 📊 Visualizations:
+📈 Trend Analysis – Line charts for occupancy and revenue over time.
 
-1️⃣ Clone the repository
-            git clone https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis.git
+📊 Revenue Breakdown – Bar charts and KPIs for revenue performance.
 
-2️⃣ Open Healthcare.pbix in Power BI Desktop
+📍 Customer Demographics – Pie charts and heatmaps for guest analysis.
 
-3️⃣ Connect to your dataset (if needed)
+⏳ Time-Series Forecasting – Predict future demand and revenue trends.
 
-4️⃣ Interact with dashboards & explore insights!
+🔍 Interactive Filters – Explore data by date, booking source, and customer type.
 
 
 #
@@ -112,8 +74,36 @@ Power Query (M Language) – Data transformation
   <img width="600" height="350" src="https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis/blob/main/Firstpg.png">
 </p>
 
+#
+#
+## 🛠 How to Use the Report
+1️⃣ Open the Hotel.pbix file in Power BI Desktop.
+
+2️⃣ Refresh the dataset to get the latest insights.
+
+3️⃣ Use interactive filters to analyze different dimensions.
+
+4️⃣ Navigate between report pages for a detailed view.
 
 
+#
+#
+## 💡 Technology Stack
+🟢 Data Source: SQL Server / CSV / API-based data
+
+🟢 Visualization Tool: Microsoft Power BI
+
+🟢 Data Modeling: DAX, Power Query
+
+
+#
+#
+## 🚀 Future Enhancements
+✅ Real-time booking integration with hotel management systems.
+
+✅ Predictive analytics for demand forecasting.
+
+✅ Sentiment analysis from customer reviews to improve guest satisfaction.
 
 #
 📢 Let’s Connect!
@@ -124,9 +114,3 @@ Power Query (M Language) – Data transformation
 
 🔗 LinkedIn: https://www.linkedin.com/in/bhairavi-jagtap/
 
-
-#
-#
-### 🔹 Star ⭐ this repository if you found it useful!
-#
-#PowerBI #HealthcareAnalytics #DataVisualization #Insurance #DAX #SQL #heathcare #insurance
